@@ -5,7 +5,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/)
 [![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code)](https://code.visualstudio.com/)
 
-Repository containing all code implementations, projects, and solutions from Udemy's **"Complete Python with DSA Bootcamp"** completed in VS Code.
+Repository containing all code implementations, and solutions from Udemy's **"Complete Python with DSA Bootcamp"** completed in VS Code.
 
 ## 📌 Table of Contents
 - [Course Overview](#-course-overview)
