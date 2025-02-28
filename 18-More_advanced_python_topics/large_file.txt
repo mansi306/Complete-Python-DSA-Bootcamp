@@ -1,0 +1,15 @@
+Q*, pronounced "Q-star," is an emerging AI model developed by OpenAI that has garnered significant attention for its advanced reasoning capabilities, particularly in solving mathematical problems. Unlike traditional AI models that often rely heavily on training data, Q* demonstrates the ability to achieve flawless accuracy on math tests without external aids, indicating a level of reasoning and problem-solving akin to human intelligence. 
+SUPERANNOTATE
+
+The development of Q* has been associated with internal discussions at OpenAI regarding the rapid advancement of AI technologies and their potential implications. Reports suggest that concerns over the swift progress of systems like Q* contributed to significant organizational changes within the company. 
+REUTERS
+
+Q* is believed to integrate concepts from A* (a search algorithm) and Q-learning (a reinforcement learning technique), enabling it to perform complex reasoning tasks. This integration allows Q* to navigate through complex information to find the most relevant responses, enhancing its problem-solving abilities beyond mere data repetition. 
+SUPERANNOTATE
+
+The capabilities of Q* have led to discussions about its role in the pursuit of artificial general intelligence (AGI), which aims to create AI systems that can perform any intellectual task that a human can. The potential of Q* to generalize knowledge and apply it across various domains marks a significant step toward achieving AGI. 
+SUPERANNOTATE
+
+While the full extent of Q*'s capabilities and its future applications remain to be seen, its development represents a notable advancement in AI research, highlighting the ongoing evolution of AI systems toward more human-like reasoning and problem-solving abilities.
+
+For a more in-depth understanding of Q* and its implications, you might find the following video informative:

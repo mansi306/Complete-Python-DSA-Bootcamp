@@ -1,0 +1,99 @@
+# Properties and Visualization
+# root1: Contains 6 nodes, Height = 3
+# Structure:
+#       1
+#     /   \
+#    2     3
+#   / \     \
+#  4   5     6
+#
+# Preorder = 1 2 4 5 3 6 
+# Post Order = 4 5 2 6 3 1 
+# Inorder Traversal = 4 2 5 1 3 6
+# 
+# root2: Contains 8 nodes, Height = 4
+# Structure:
+#       10
+#     /    \
+#   20      30
+#  /  \    /  \
+# 40   50 60  70
+# /
+# 80
+#
+# root3: Contains 12 nodes, Height = 5
+# Structure:
+#        100
+#      /     \
+#    200     300
+#   /  \     /  \
+# 400  500  600  700
+# / \        /  \
+# 800 900   1000 1100
+
+
+class BinaryTreeNode:
+    def __init__(self,val):
+        self.val = val
+        self.left = None
+        self.right = None
+
+# Tree 1: Basic Tree with height 3
+def predefined_binary_tree_inputs():
+    root1 = BinaryTreeNode(1)
+    root1.left = BinaryTreeNode(2)
+    root1.right = BinaryTreeNode(3)
+    root1.left.left = BinaryTreeNode(4)
+    root1.left.right = BinaryTreeNode(5)
+    root1.right.right = BinaryTreeNode(6)
+
+    # Tree 2: Slightly complex tree with height 4
+    root2 = BinaryTreeNode(10)
+    root2.left = BinaryTreeNode(20)
+    root2.right = BinaryTreeNode(30)
+    root2.left.left = BinaryTreeNode(40)
+    root2.left.right = BinaryTreeNode(50)
+    root2.right.left = BinaryTreeNode(60)
+    root2.right.right = BinaryTreeNode(70)
+    root2.left.left.left = BinaryTreeNode(80)
+
+    # Tree 3: More complex tree with height 4
+    root3 = BinaryTreeNode(100)
+    root3.left = BinaryTreeNode(200)
+    root3.right = BinaryTreeNode(300)
+    root3.left.left = BinaryTreeNode(400)
+    root3.left.right = BinaryTreeNode(500)
+    root3.right.left = BinaryTreeNode(600)
+    root3.right.right = BinaryTreeNode(700)
+    root3.left.left.left = BinaryTreeNode(800)
+    root3.left.left.right =  BinaryTreeNode(900)
+    root3.right.right.left = BinaryTreeNode(1000)
+    root3.right.right.right =  BinaryTreeNode(1100)
+
+    # Tree 4: Another Tree (Properly Constructed)
+    root4 = BinaryTreeNode(1)
+    root4.left = BinaryTreeNode(2)
+    root4.right = BinaryTreeNode(3)
+
+    root4.left.left = BinaryTreeNode(4)
+    root4.left.right = BinaryTreeNode(5)
+
+    root4.right.left = BinaryTreeNode(6)
+    root4.right.right = BinaryTreeNode(7)
+
+    root4.left.left.left = BinaryTreeNode(8)
+    root4.left.left.right = BinaryTreeNode(9)
+
+    root4.left.left.right.left = BinaryTreeNode(10)  # Node 10 as the left child of 9
+    root4.left.left.right.right = BinaryTreeNode(11)
+        
+    
+    
+
+
+
+    
+
+    return root1,root2,root3,root4
+
+
