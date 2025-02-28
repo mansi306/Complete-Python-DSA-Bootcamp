@@ -12,8 +12,6 @@ Repository containing all code implementations, projects, and solutions from Ude
 - [Repository Structure](#-repository-structure)
 - [Getting Started](#-getting-started)
 - [Key Features](#-key-features)
-- [LeetCode Solutions](#-leetcode-solutions)
-- [Learning Journey](#-learning-journey)
 - [License](#-license)
 - [Acknowledgements](#-acknowledgements)
 
@@ -28,12 +26,13 @@ Repository containing all code implementations, projects, and solutions from Ude
 
 **Skills Developed** 💻:
 ```python
-["Python Programming", "DSA Implementation", "Algorithm Analysis", 
+["Python Programming", "DSA Implementation", "Algorithm Analysis",
 "Data Analysis", "Web Development Basics", "System Design",
 "Technical Interview Prep", "Problem Solving Strategies"]
+```
 
 ## 📂 Repository Structure
-
+```
 UDEMY_PYTHON_DSA_COURSE/
 ├── 01_python_fundamentals/           # Core Python concepts
 │   ├── variables_datatypes/
@@ -82,4 +81,61 @@ UDEMY_PYTHON_DSA_COURSE/
 │   └── flask_projects/
 │
 └── README.md
+```
+
+## 🛠️ Getting Started
+### Prerequisites
+- Python 3.8+
+- VS Code (recommended)
+- pip package manager
+
+### Installation
+Clone repository:
+```bash
+git clone https://github.com/YOUR-USERNAME/UDEMY_PYTHON_DSA_COURSE.git
+cd UDEMY_PYTHON_DSA_COURSE
+```
+Set up virtual environment:
+```bash
+python -m venv venv
+source venv/bin/activate  # Linux/MacOS
+.\venv\Scripts\activate   # Windows
+```
+Install requirements:
+```bash
+pip install -r requirements.txt
+```
+
+## ✨ Key Features
+- 📚 300+ Organized Scripts covering Python fundamentals to advanced concepts
+- 🌟 LeetCode Solutions categorized by data structure and difficulty
+- 💡 Real-world Implementations of core algorithms
+- 🌐 Data Analysis Toolkit with NumPy, Pandas, and visualization libraries
+- 🏰 System Programming examples (Multithreading, Logging)
+- 📝 Web Development basics with Flask
+
+## 🧐 LeetCode Solutions Structure
+```
+leetcode_problems/
+├── arrays/               # Array problems
+├── linked_lists/         # LinkedList problems
+├── trees/                # Tree problems
+├── dynamic_programming/  # DP problems
+└── ...                   # Other categories
+```
+## 🐜 License
+Distributed under MIT License. See `LICENSE` for details.
+
+## 🙏 Acknowledgements
+- **Instructors**: Krish Naik & Mayank Aggarwal
+- **Udemy Platform** for comprehensive curriculum
+- **Python Community** for excellent documentation
+- 🔥 Mastered through **61+ hours of hands-on coding**
+
+## 💡 Connect with me:
+- **LinkedIn** | **LeetCode Profile** | **Portfolio**
+
+ 
+
+
 
