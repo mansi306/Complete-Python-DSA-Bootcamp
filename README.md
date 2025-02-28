@@ -92,8 +92,8 @@ UDEMY_PYTHON_DSA_COURSE/
 ### Installation
 Clone repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/UDEMY_PYTHON_DSA_COURSE.git
-cd UDEMY_PYTHON_DSA_COURSE
+git clone https://github.com/mansi306/Complete-Python-DSA-Bootcamp.git
+cd "udemy python DSA course"
 ```
 Set up virtual environment:
 ```bash
