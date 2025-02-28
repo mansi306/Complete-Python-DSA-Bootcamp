@@ -29,3 +29,56 @@ Repository containing my solutions and projects from Udemy's **"Complete Python 
 ```python
 ["Python Programming", "Algorithm Analysis", "DSA Implementation", 
 "OOP Design", "Technical Interview Prep", "Problem Solving Strategies"]
+
+## 📂 Repository Structure
+UDEMY PYTHON DSA COURSE/
+├── 01_python_fundamentals(basic)/       # Core Python concepts
+│   ├── variables_datatypes/
+│   ├── control_flow/
+│   ├── functions_modules/
+│   └── oop_concepts/
+│
+├── 02_data_structures/          # DSA implementations
+│   ├── linear_structures/
+│   │   ├── arrays/
+│   │   ├── linked_lists/
+│   │   └── stacks_queues/
+│   │   ├── leetcode_problems(arrays,linked_lists,stacks_queues)/
+│   │
+│   ├── non_linear_structures/
+│   │   ├── trees/
+│   │   └── graphs/
+│   │   ├── leetcode_problems(trees, graphs)/
+│   │
+│   └── hash_based/
+│       └── hash_tables/
+│       └── leetcode_problems(hash_based)/
+│
+├── 03_algorithms/               # Algorithm implementations
+│   ├── sorting/
+│   ├── searching/
+│   ├── recursion_dp/
+│   └── graph_algorithms/
+│   ├── leetcode_problems(sorting,searching,recursion_dp)/
+|
+|
+├── 04_Dynamic_programming/             
+│   ├── leetcode_problems(Dynamic programming )/
+│
+├── 05_Python for data analysis/          # Data analysis using python 
+│   ├── data_analysis_libraries/
+│   │   ├── numpy/
+│   │   ├── pandas/
+│   ├── data_visualization_library/
+│   │   ├── Matplotlib/
+│   └── Working_with_Sqlite_and_python/
+│       └── data_visualization_using_seaborn/
+│       └── Sqlite_with_python/
+|
+├── 06_Introduction to Multitreading with python /
+|            
+├── 07_Logging_in_python /
+|           
+├── 08_Introduction to Flask Framework /
+|       
+└── README.md                    # You are here :)
