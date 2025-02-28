@@ -132,10 +132,7 @@ Distributed under MIT License. See `LICENSE` for details.
 - **Python Community** for excellent documentation
 - 🔥 Mastered through **61+ hours of hands-on coding**
 
-## 💡 Connect with me:
-- **LinkedIn** | **LeetCode Profile** | **Portfolio**
 
- 
 
 
 
